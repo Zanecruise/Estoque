@@ -8,6 +8,14 @@ Link do projeto: http://localhost:8080
 
 O projeto serve como um princípio de um CRUD, o aplicativo permite o usuário cria um objeto, ler esse objeto, editar e remover se assim desejar.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Organização dos arquivos:
+
+![image](https://github.com/Zanecruise/Estoque/assets/48337395/8e7817bd-901b-4113-b28a-774d56258989)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 O usuário vai adicionar o objeto nesse botão
 
 ![image](https://github.com/Zanecruise/Estoque/assets/48337395/7a497100-258b-433b-b433-1d2cc38d7ce8)
@@ -48,7 +56,7 @@ O sistema ira atualizar a página automaticamente e mostrara que não tem nenhum
 
 ![image](https://github.com/Zanecruise/Estoque/assets/48337395/d37826fc-628d-4313-8ad6-d120761a5689)
 
-------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Local de armazenamento dos objetos:
 ![image](https://github.com/Zanecruise/Estoque/assets/48337395/555c23b9-b3dd-4417-a57f-c9f024bc4973)
