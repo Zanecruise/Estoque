@@ -1,5 +1,8 @@
 # Estoque
 
+Nome: Patrick Stegaribe de Almeida
+Turma: 02
+
 Link do projeto: http://localhost:8080
 
 O projeto serve como um princípio de um CRUD, o aplicativo permite o usuário cria um objeto, ler esse objeto, editar e remover se assim desejar.
